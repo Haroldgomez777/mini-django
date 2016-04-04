@@ -28,7 +28,7 @@ ALLOWED_HOSTS = ['']
 
 SECRET_KEY = '_'
 
-SITE_ID = 3
+SITE_ID = 4
 
 ROOT_URLCONF = 'test_app.urls_default'
 
@@ -74,7 +74,7 @@ EMAIL_USE_TLS = True
 EMAIL_PORT = 587
 EMAIL_HOST='smtp.gmail.com'
 EMAIL_HOST_USER='haroldgomez40@gmail.com'
-EMAIL_HOST_PASSWORD='harold@#$f123'
+EMAIL_HOST_PASSWORD='harold#$%123'
 SERVER_EMAIL = 'haroldgomez40@gmail.com'
 DEFAULT_FROM_EMAIL = "Harold-Abhishek"
 
