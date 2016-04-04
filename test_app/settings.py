@@ -66,6 +66,7 @@ MIDDLEWARE_CLASSES = (
 
 ACCOUNT_ACTIVATION_DAYS = 7
 REGISTRATION_EMAIL_SUBJECT_PREFIX = '[Harold-Abhishek Registration Test App]'
+"""
 SEND_ACTIVATION_EMAIL = True
 REGISTRATION_AUTO_LOGIN = False
 
@@ -77,7 +78,7 @@ EMAIL_HOST_USER='haroldgomez40@gmail.com'
 EMAIL_HOST_PASSWORD='harold#$%123'
 SERVER_EMAIL = 'haroldgomez40@gmail.com'
 DEFAULT_FROM_EMAIL = "Harold-Abhishek"
-
+"""
 STATIC_URL = '/static/'
 
 
